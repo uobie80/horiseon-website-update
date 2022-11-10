@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains the updated code base for the Horiseon site.
+This repository contains the updated code base for the Horiseon site.  The code was refactored to meet the acceptance criteria below as part of the challenge assignment for the coding bootcamp.
 
 ## User Story
 
