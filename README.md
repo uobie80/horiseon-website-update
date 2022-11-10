@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains the updated code base for the Horiseon site which is the completed week 1 challenge assignment of the coding bootcamp.
+This repository contains the updated code base for the Horiseon site.
 
 ## User Story
 
