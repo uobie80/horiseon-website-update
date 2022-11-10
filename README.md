@@ -36,5 +36,5 @@ The following image shows the web application's appearance and functionality:
 
 ## Link to Horiseon Website
 
-Please refer to the following link to access the Horiseon Site  [Horiseon](https://youtu.be/P4Mu1t5rIXg) 
+Please refer to the following link to access the Horiseon site.  [Horiseon](https://youtu.be/P4Mu1t5rIXg) 
 
